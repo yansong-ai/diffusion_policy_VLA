@@ -14,7 +14,7 @@ fuse.cfg
 *.ai
 
 # Generation results
-results/
+# results/
 
 ray/auth.json
 
